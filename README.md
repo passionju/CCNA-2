@@ -48,8 +48,8 @@
 211*![alt text](image-19.png) 這兩個以及duplex setting 
   
   
-216   
-220  
+216   ![alt text](image-20.png)
+220  ![alt text](image-21.png)
 223  
 225  
 226 考前背  
