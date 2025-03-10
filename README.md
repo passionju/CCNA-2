@@ -1,63 +1,53 @@
-1  
-4  
-![alt text](image.png)  https://blog.csdn.net/weixin_40535588/article/details/112765278  
+1    ![alt text](image-1.png)  
 
-12  
-21  
-24  
-25  
+21  ![alt text](image-2.png)
+25  ![alt text](image-3.png)
 28 a:ap和controller之間基本都走網路的  
-31  
-33  
-35 ip二進位不能0 1 交錯  
-39  
-42  
-43  
-+ Band Select:開啟Band select之後,AP會進入讓使用者盡量連到5G的判斷機制  
-+ DTIM: Delivery Traffic indication Message,為AP在Multicast 環境省電機制之一   
-+ RX-SOP: Receiver Start of Packet,用以調整能接受訊號號強度的門檻值  
-+ AAA override: 允許AP根據RADIUS的回應進行參數調整  
+![alt text](image-4.png)
+31  ![alt text](image-5.png)
 
-48  
-53  
-58   
-59  
-60*  
-62  
-63  
-65  
-86 考專線寬頻,先不背  
-87 背線材速度,考前看看就好   
-93  
-102 背線材  
-103  
-114  
-116  
-121  
-128  背電力供給模式          
+42  ![alt text](image-6.png)
+
+
+
+59  ![alt text](image-7.png)
+60*  ![alt text](image-8.png)老師認為D  
+
+
+  
+ 
+86 考專線寬頻,先不背 ![alt text](image-9.png)   
+87 我有對喔~ 背線材速度,考前看看就好![alt text](image-10.png)  
+
+102 我也對~喔背線材  ![alt text](image-11.png)  
+103  ![alt text](image-12.png)  
+  
+  
+      
 132 會了 但計算題很好玩  
-134  
-140  
-144  
-154  
-158  
-161  
-168 一樣線材  
-171  
-172  
-175  
-179*  
+  
+  
+  
+154  ![alt text](image-13.png)resolve是回應客戶的,domain是url  
+  
+161  線材![alt text](image-14.png) cat5e和cat6,都有2.5和5Gbps    
+168 一樣線材  ![alt text](image-15.png) 長到靠杯  
+
+  
+ 
+175**  ![alt text](image-16.png)
+  
 180 背最高級金屬白金  
-181  
-187  
-190 
-197  
-198  
-207 考前看一看 cisco wireless lan controller  
-209 陷阱  
-211  
-212  
-215  
+  
+
+
+197  ![alt text](image-17.png)
+  
+207 考前看一看 cisco wireless lan controller![alt text](image-18.png)  
+  
+211*![alt text](image-19.png) 這兩個以及duplex setting 
+  
+  
 216   
 220  
 223  
