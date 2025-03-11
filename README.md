@@ -50,38 +50,36 @@
   
 216   ![alt text](image-20.png)
 220  ![alt text](image-21.png)
-223  
-225  
-226 考前背  
-228  
-229  
-241  
-252  
-261 考前看   
-264  
+223  ![alt text](image-22.png)
+225  ![alt text](image-23.png)
+226 考前背  ![alt text](image-24.png)
+228  ![alt text](image-25.png)
+229  ![alt text](image-26.png)
+241  我對,但注意![alt text](image-27.png)
+  
+261 考前看  ![alt text](image-28.png) 
+264  ![alt text](image-29.png)
 267  
-269 背  
+  
 275 背吧 怪  
-285  
+285  ![alt text](image-30.png)
 288  
-297  
-301  
+297  ![alt text](image-31.png) [B]
+  
 312 背  
-322 陷阱  
-335 考前看一下  
+ 
 336 可跳過  
-340  
-341   
-344   
-348  
+340  ![alt text](image-32.png)
+341   ![alt text](image-33.png)
+    
 350  
 353  
 363  
 366 考前看看  
 367 考前看  
-373 背指令  
+  
 376 考前背  
-377   
+  
 381  
 382 e怪,考前看  
 384  
@@ -93,16 +91,16 @@
 402*  
 406 考前看   
 408 routing table考前看    
-413*  
-418*   
-421 考前背 virtual mac  
+413*  ![alt text](image-34.png)
+418*   ![alt text](image-35.png)
+  
 424 考前背  
 426  
 427  
 442  
 454  
 460  
-476*  
+
 494 考前背  
 500  
 502  
@@ -112,9 +110,9 @@
 516 我對,但背 dhcp  
 517  考前背 dhcp  
 519  
-520 考前看dhcp  
+  
 521  
-525 背  
+
 530* 考前看dhcp relay設置位置  
 540 
 545  網管細部功能  
@@ -184,7 +182,7 @@
 915*  
 917 陷阱  
 924*  
-932*  
+932*  ![alt text](image-36.png)
 950  
 951 送他了有時間在背  
 952  
